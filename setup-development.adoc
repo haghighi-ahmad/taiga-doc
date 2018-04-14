@@ -234,7 +234,7 @@ is only in development environments.
 .Install ruby
 [source,bash]
 ----
-sudo apt-get install -y ruby
+sudo apt-get install -y ruby ruby-dev
 ----
 
 .Install required gems
